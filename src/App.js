@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import films from "./films.json";
+import Header from "./components/Header.jsx";
+import TierRank from "./components/TierRank.jsx";
+import Movie from "./components/Movie.jsx";
+
+const tableau = Object.entries(films.list);
+console.log(tableau[0]);
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="Header">
+        <Header site={films} />
+      </div>
+      <section className="mainContent"></section>
+      <div className="tierRank">
+        {tableau.map((rank, index) => (
+          <TierRank rank={rank} key={index} />
+        ))}
+      </div>
     </div>
   );
 }

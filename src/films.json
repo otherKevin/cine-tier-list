@@ -1,0 +1,82 @@
+{
+  "name": "Cinema Tier List",
+  "description": "La liste des meilleurs films de tous les temps",
+  "list": {
+    "S": [
+      {
+        "title": "Retour vers le futur",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "A": [
+      {
+        "title": "La vengeance de la moustache cendrée",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Pourquoi qu'on n'a pas fait ça avant ?",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Comment c'était mieux quand j'avais des bras",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "B": [
+      {
+        "title": "Et voici la dernière strophe",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Hercule 12 : combat final contre le Grulme",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Comment c'était mieux quand j'avais des bras 2 : c'est encore pire maintenant que j'ai plus de jambes",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "C": [
+      {
+        "title": "Extrait particulier d'un hommage anonyme",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "La maison ne s'effondrera pas",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Cours plus vite, saute plus haut, chante plus fort",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "D": [
+      {
+        "title": "Malgré tout",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Chasse à l'ours sans pitié sous un ciel nocturne",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Dans le froid sibérien du mausolée vide",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "E": [
+      {
+        "title": "Une étrange randonnée pédestre",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Sans moi, les gars",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      },
+      {
+        "title": "Un dernier... juste un dernier titre",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ]
+  }
+}
